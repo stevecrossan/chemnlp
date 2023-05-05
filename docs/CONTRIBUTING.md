@@ -15,7 +15,7 @@ If you wish to work on one of the submodules for the project, please see the [gi
 
 For code and data contributions, we recommend you creata a [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). If you do not have conda already installed on your system, we recommend installing [miniconda](https://docs.conda.io/en/latest/miniconda.html):
 
-To create your developer environment please follow the guidelines in the `Installation and set-up` of [README.md](README.md)
+To create your developer environment please follow the guidelines in the `Installation and set-up` of [README.md](https://github.com/OpenBioML/chemnlp#installation-and-set-up)
 
 ## Work package leads
 
